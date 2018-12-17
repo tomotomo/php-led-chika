@@ -1,0 +1,11 @@
+{
+	"name": "php-led-chika",
+	"version": "0.1",
+	"description": "PHPでLチカ",
+	"author": "tomotomo",
+	"license": "MIT License",
+	"language": "",
+	"scripts": {
+		"start": "php led.php"
+	}
+}
